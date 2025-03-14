@@ -20,7 +20,9 @@
 
 * Realm-based setup as Identitxy Provider
 
-* in Github,m create a new Githup app, configure the redirect url accoridng to keycload IdP, and copy client id and secret into the configuration within Keycloak
+* in Github neue Githup app erstellen,
+* in Github App Konfiguration: redirect url entsprechend Keycloak IdP setzen (siehe Screenshot github)
+* im Keycloak-Config: client id und secret aus von Github App einfügen (siehe Screenshots)
 
 ![keycloak-github-setup](img/keycloak-github-setup.png)
 
